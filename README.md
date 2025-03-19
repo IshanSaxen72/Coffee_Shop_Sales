@@ -83,5 +83,5 @@ You can modify the evaluation script to include additional metrics as needed.
 This Coffee Shop Sales Prediction System is designed to help coffee shop owners make data-driven decisions on inventory management, staffing, and marketing strategies. By predicting sales accurately, coffee shops can minimize waste, optimize staffing schedules, and improve profitability.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Ishan License - see the LICENSE file for details.
 
